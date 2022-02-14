@@ -1,13 +1,12 @@
-# SectionA
-This folder contains the source code for Datium Data Science Test Section A.  
-For ease of visualisation, the Juptery NoteBook is split into two parts.  
+# DatiumInsights_test
 
---- 
-## Part 1
-- `Part01_EDA.ipynb` documents the codeblocks for data preparation, which incldues data understanding and data preprocessing.   
-## Part 2
-- `Part02_model_and_evaluation.ipynb` formulates the documents for model training and evaluation.  
+This repository is dedicated to Datium Data Sience Test.  
+The task are as follows:  
 
----
-`utils.py` contains helper functions that is useful during the implementation.  
-  
+## Section A
+
+Predicting vechicle sale prices with predicting model. The related reports are documented in the folder named as `SectionA`
+
+## Section B
+
+Case study of deep learning methods to detect damaged areas of the vehicle. The report is documented in the folder named `SectionB`  
