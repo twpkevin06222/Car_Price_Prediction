@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # DatiumInsights_test
+=======
+# DatiumInsights_DS_test
+>>>>>>> 9b22a58a371e3c03e11677dc62bbaa4443842985
 
 This repository is dedicated to Datium Data Sience Test.  
 The task are as follows:  
