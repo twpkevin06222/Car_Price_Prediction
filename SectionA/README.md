@@ -14,3 +14,8 @@ For ease of visualisation, the Juptery NoteBook is split into two parts.
 ---
 Download dependencies  
 `$ pip install --r requirements.txt`
+
+---
+There are two files not provided in the repo due to privacy issue:  
+- `DatiumSample.rpt` is not included due to privacy issue.  
+- `dummies_ds.csv` file can be generated from `Part01_EDA.ipynb` which will be used in `Part02_model_and_evaluation.ipynb`.  
