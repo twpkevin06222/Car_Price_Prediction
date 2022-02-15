@@ -10,4 +10,7 @@ For ease of visualisation, the Juptery NoteBook is split into two parts.
 
 ---
 `utils.py` contains helper functions that is useful during the implementation.  
-  
+
+---
+Download dependencies  
+`$ pip install --r requirements.txt`
